@@ -1,6 +1,8 @@
 # face_blur
 
-version 2! uses facenet_pytorch instead https://github.com/timesler/facenet-pytorch
+version 2! uses facenet_pytorch instead https://github.com/timesler/facenet-pytorch 
+
+version 1 is here https://github.com/naomichoy/face_blur
 
 ## DEPENDENCIES
 Python 3.7 is need to run the script. Google how to install python 3 on your mac/windows and follow the steps. (alternatively, install anaconda lmao)
